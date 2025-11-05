@@ -55,7 +55,7 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 <table>
 <tr>
 <td width="50%">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=EcoChain%20Platform&width=600&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=EcoChain&width=600&height=120" />
 
   <h3>EcoChain Token Platform</h3>
   <p><b>Web3 / DeFi / Token System</b><br/>
@@ -68,7 +68,7 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 </td>
 
 <td width="50%">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DexSafe%20Wallet&width=600&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DexSafe&width=600&height=120" />
 
   <h3>DexSafe Wallet Pro</h3>
   <p><b>Web3 Wallet + Motion UI</b><br/>
@@ -83,7 +83,7 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 
 <tr>
 <td width="50%">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DexFlow%20DEX&width=600&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DexFlow&width=600&height=120" />
 
   <h3>DexFlow DEX</h3>
   <p><b>Prototype of DEX Interface</b><br/>
@@ -96,7 +96,7 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 </td>
 
 <td width="50%">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Portfolio%20System&width=600&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Portfolio&width=600&height=120" />
 
   <h3>Portfolio System (Reactive Velocity)</h3>
   <p><b>React 19, Tailwind, CI/CD, 95+ Lighthouse</b></p>
