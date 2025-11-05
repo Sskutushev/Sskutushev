@@ -24,7 +24,7 @@
 ### 🔥 Основной стек
 <h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,vue,redux,nextjs,tailwind,scss,webpack" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,vue,nextjs,tailwind,scss" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,docker,python,fastapi,git,github,figma" />
 </p>
 
