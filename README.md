@@ -1,181 +1,177 @@
-# 👋 Привет, я Сергей Кутушев  
-### Frontend Architect • Web3 Developer • Full-Cycle UI/UX Engineer  
+<!-- БАННЕР -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0c29&height=120&section=header&text=Sergey%20Kutushev&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Создаю быстрые, масштабируемые и архитектурно продуманные веб-приложения —  
-от идеи и дизайна до продакшена, тестирования и CI/CD пайплайна.  
-
-Работаю как инженер, архитектор и продуктовый разработчик:  
-код, UX, архитектура, Web3-интеграции, производительность и весь путь от прототипа до релиза.
-
----
-
-# 🧱 The Architect’s Blueprint  
-## Кто я и что делаю
-
-Я не “кодер, который верстает экраны”.  
-Я — **Frontend Architect**, который строит системы:
-
-- продуманная компонентная архитектура (CDD)  
-- чистая работа со стейтом (Zustand, RTK, TanStack Query)  
-- продуманный UX с анимациями, микро-интеракциями и логикой  
-- железная стабильность (Vitest, Cypress, Playwright, A11Y)  
-- CI/CD, Docker, автоматизация, девопс-мышление  
-- Web3/DeFi интеграции, инженерия кошельков, токенизация  
-
-За последний год реализовал проекты **от лендингов до Web3-кошельков и DeFi платформ**, включая сложные системы с собственными API, смарт-контрактами и Telegram Mini Apps.
+<h3 align="center">Frontend Architect • Web3 Developer • Full-Cycle Engineer</h3>
+<p align="center">
+  Создаю производительные, продуманные и масштабируемые интерфейсы.<br/>
+  Архитектура → UX → Разработка → Тесты → CI/CD → Продакшен.
+</p>
 
 ---
 
-# ⚡ Мой основной стек
+# 🧭 Обо мне
+Я — **Frontend Architect** и Web3-разработчик, который превращает идеи в системы.  
+Строю архитектуру, продумываю UX, проектирую интерфейсы и реализую всё end-to-end.
 
-### 🧩 **Frontend (Core)**
-React 18/19, Vue 3, TypeScript, Vite, Zustand, Redux Toolkit, TanStack Query,  
-Tailwind CSS, Framer Motion, GSAP, i18next, React Hook Form.
+Работаю в трёх плоскостях:
 
-### 🏗️ **Архитектура и инструменты**
-Vite (предпочтительно), Webpack, модульная структура, ESLint, Prettier, Husky,  
-Storybook, API-слои, OpenAPI, REST.
+✅ **Инженерия** — архитектура, стейт-менеджмент, слой данных  
+✅ **UX/Продукт** — микроанимации, взаимодействия, flow пользователя  
+✅ **Системность** — тесты, CI/CD, дизайн системы, документация  
 
-### 🌐 **Web3 / Blockchain**
-Ethers.js, Web3-интеграции, работа с кошельками, подписи, токены,  
-интерфейсы под DeFi и смарт-контракты (базово).
-
-### ⚙️ **Backend (база)**
-Node.js, Express, Next.js (App Router + API), FastAPI, SQL, Docker, CI/CD.
-
-### ✅ **Тестирование**
-Vitest, React Testing Library, Cypress, Playwright, A11Y, Lighthouse CI.
+За последний год создал Web3-кошельки, DeFi-платформы, Telegram Mini Apps и сложные интерфейсы, включая DEX-решения.
 
 ---
 
-# 🌐 Web3 / Web4 экспертиза
+# 🧩 Технический профиль
 
-Строю интерфейсы и архитектуру под:
+### 🔥 Основной стек
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-563D7C?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-0F0F0F?style=for-the-badge)
+![Framer](https://img.shields.io/badge/FramerMotion-000000?style=for-the-badge&logo=framer&logoColor=white)
 
-- Web3 кошельки (подключение, транзакции, подписи)
-- DeFi-решения и токенизация
-- Дашборды real-time данных
-- Telegram Mini Apps
-- DEX интерфейсы
-- RWA интеграции
-- API-слои и контрактные взаимодействия
+### ⚙️ Архитектура и инструменты
+- Типизация и масштабируемые модели данных  
+- Storybook, API-слой, OpenAPI  
+- ESLint, Prettier, Husky, Commitlint  
+- Webpack (точечно), Vite (предпочтительно)
 
----
+### 🌐 Web3 / DeFi
+- Ethers.js  
+- Wallet API / подписи / токены  
+- Интерфейсы под DEX, RWA, DeFi-инфраструктуру  
 
-# 🚀 Code Manifest  
-## Крупные проекты, которые я создал end-to-end
+### ⚡ Backend (база)
+Node.js, Express, Next.js API, FastAPI, SQL, Docker, CI/CD.
 
-### ✅ **EcoChain Token Platform** (Web3 / DeFi)  
-**React, TS, Vite, Zustand, i18n, Storybook, Vitest, OpenAPI**  
-:contentReference[oaicite:0]{index=0}  
-Полностью спроектировал интерфейс платформы, создал архитектуру, логику, ux-фlow,  
-реализовал работу с токенами, локализацию, Zustand-стейт, тестирование, CI/CD, mock-сервер, OpenAPI.
-
----
-
-### ✅ **DexSafe Wallet Pro** (Web3 Wallet + Landing)  
-**React, TS, Tailwind, Framer Motion, Cypress, i18n**  
-:contentReference[oaicite:1]{index=1}  
-Красочный лендинг с анимациями, архитектурой секций, Web3-логикой, UPA Engine визуализацией,  
-адаптивом, тестированием и CI/CD.
+### ✅ Тестирование
+Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 
 ---
 
-### ✅ **DexFlow DEX** (Prototype of a decentralized exchange)  
-**React, API, mock-trading engine, UI/UX архитектура**  
-:contentReference[oaicite:2]{index=2}  
-Проработал интерфейс биржи, ордера, пулы ликвидности, обновление UI, мобильную адаптацию,  
-архитектуру контейнеров, улучшил UX и подготовил проект к API-интеграции.
+# 🚀 Проекты (Premium Cards)
+
+<table>
+<tr>
+<td width="50%" style="vertical-align:top">
+
+### ✅ EcoChain Token Platform  
+**Web3 / DeFi / Multi-Layer Architecture**  
+React, TS, Vite, Zustand, Storybook, Vitest  
+Полная архитектура платформы: UI, UX-flow, токены, локализация, API-слой, тесты, CI/CD.
+
+</td>
+<td width="50%" style="vertical-align:top">
+
+### ✅ DexSafe Wallet Pro  
+**Web3 Wallet + Landing**  
+React, TS, Tailwind, Framer, Cypress  
+Web3-логика, UPA Engine визуализация, микроанимации, адаптив, автоматизация.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="vertical-align:top">
+
+### ✅ DexFlow DEX  
+**Prototype of Decentralized Exchange**  
+React, API-engine, UX-архитектура  
+Интерфейс ордеров, ликвидность, realtime-обновление, контейнерная архитектура.
+
+</td>
+<td width="50%" style="vertical-align:top">
+
+### ✅ Portfolio System (Reactive Velocity)  
+**React 19, TS, Tailwind, Vite, CI/CD, Playwright, A11Y**  
+Полностью тестируемая система портфолио с Lighthouse 95+.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✅ **Portfolio System (Reactive Velocity)**  
-**React 19, TS, Tailwind, Vite, Full CI/CD, Playwright, A11Y, 95+ Lighthouse**  
-:contentReference[oaicite:3]{index=3}  
-Современное портфолио с полным набором тестов, авто-деплоем, строгой типизацией  
-и Lighthouse 95+ по всем категориям.
+# 🧠 Философия
+> Я — практик.  
+> Если не помню термин — понимаю, как работает система.
+
+- архитектура превыше импровизации  
+- чистый, предсказуемый код  
+- UX, который чувствуется естественным  
+- тесты → гарантия качества  
+- CI/CD → гарантия стабильности  
+- Web3 без боли для пользователя  
+
+Работаю так, будто делаю продукт для себя.
 
 ---
 
-# 🧠 Моя философия (коротко и честно)
+# 📚 Матрица технологий
 
-Я — практик.  
-Если я не помню термин, я всё равно понимаю, как работает система.
-
-- не начинаю кодить, пока не построена архитектура  
-- дотошен в хорошем смысле — в коде нет случайностей  
-- UX должен быть естественным, ощущения — идеальными  
-- тесты — не “дополнение”, а “способ подтвердить качество”  
-- CI/CD — гарантия, что проект живёт после релиза  
-- Web3 должно быть понятным, простым и лёгким для пользователя  
-
-Я делаю продукты так, как делал бы их себе.
-
----
-
-# 📊 Матрица технологий
-## Выбор стека — под задачу, а не под шаблон
-
-### ⚛️ **React (основной стек)**
-Дашборды, кошельки, сложные SPA, Realtime UI, DeFi, Mini Apps  
-**Инструменты:** React 18+, RTK, Zustand, TanStack Query, RHF, Framer Motion, Next.js
+### ⚛️ **React — основной стек**
+Дашборды, кошельки, сложные SPA, Realtime UI, Mini Apps  
+**Инструменты:** React 18/19, Zustand, RTK, TanStack Query, RHF, Framer, Next.js
 
 ### 🔷 **Vue**
-CRM, корпоративные панели, сложные админ-системы  
+CRM, корпоративные панели, админ-системы  
 **Инструменты:** Vue 3, Composition API, Pinia, Vue Router, Nuxt
 
-### 🟨 **Vanilla JS**
-Легковесные виджеты, высокоскоростные лендинги, Web Components  
-**Инструменты:** ES6+, GSAP, Web APIs
+### 🟡 **Vanilla JS**
+Легковесные виджеты, Web Components, GSAP анимации  
+**Инструменты:** ES6+, Web APIs, CSS-архитектура
 
 ---
 
-# 🚀 От идеи до продакшена: мой процесс
+# 🔄 Процесс работы (Ideation → Release)
 
 **01. Архитектура и UX-дизайн**  
-Прорабатываю макеты, UX-потоки, архитектуру компонентов, data-flow, API-взаимодействие.
+Проработка макетов, взаимодействий, структуры данных.
 
 **02. Разработка**  
-Vite + TS + современная архитектура. Чистый и модульный код, code splitting, документация.
+Vite, TypeScript, модульность, переиспользуемость, code-splitting.
 
 **03. AI-ускорение**  
-AI использую для рутинных задач — boilerplate, тесты, документация.  
-Архитектурные решения — всегда лично.
+AI → генерация рутины, boilerplate, тестов.  
+Архитектура — вручную.
 
-**04. Тестирование и деплой**  
-E2E, Unit, A11Y, кроссбраузерность, mobile-first.  
-Автоматический деплой, CI/CD, Docker, Vercel/Netlify.
+**04. Тестирование и релиз**  
+Unit/E2E, A11Y, SEO, Lighthouse, Docker, CI/CD, авто-деплой.
 
 ---
 
-# 🧩 Опыт до разработки (кратко, но важно)
+# 🧩 Карьера до разработки
 
-### 📦 **Старший менеджер по работе с ключевыми клиентами (Coca-Cola)**  
-Понимание продаж, переговоров, воронок, KPI, бизнес-логики.
+### 📦 Coca-Cola — Senior Key Account Manager  
+B2B-продажи, переговоры, воронки, KPI, бизнес-мышление.
 
-### 📈 **Инвестиционный фонд — финансовый аналитик (FinTech)**  
-Разрабатывал стратегии, автоматизировал процессы, получил диплом финансового аналитика.  
-Понимание рынков, крипты, трейдинга, риск-менеджмента и технологий вокруг финансов.
+### 📈 FinTech — Финансовый аналитик  
+Стратегии, автоматизация, диплом финаналитика, опыт в крипте и рынках.
 
-> Этот опыт делает меня разработчиком, который понимает бизнес, а не пишет “в вакууме”.
+> Я разработчик, который понимает бизнес, цифры и пользователей.
 
-### 🧑‍💻 **Фронтенд-разработка — 1.5+ года коммерческого опыта**  
-За последний год — активный рост, работа над крупными Web3 и Web2 системами.
-
+### 🧑‍💻 Frontend — 1.5+ года коммерческого опыта  
 Общий стаж работы: **10+ лет**.
 
 ---
 
 # 📈 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sskutushev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sskutushev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sskutushev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sskutushev&layout=compact&theme=tokyonight" width="40%" />
+</p>
 
 ---
 
 # 📫 Контакты
 
-- **Telegram:** [@sskutushev](https://t.me/sskutushev)  
+- **Telegram:** https://t.me/sskutushev  
 - **Email:** sskutushev@gmail.com  
 - **GitHub:** https://github.com/Sskutushev  
 
@@ -187,10 +183,10 @@ E2E, Unit, A11Y, кроссбраузерность, mobile-first.
 const sskutushev = {
   name: "Sergey Kutushev",
   role: "Frontend Architect | Web3 Developer",
-  experience: "10+ years total, 1.5+ years in commercial frontend",
+  experience: "10+ years total, 1.5+ years frontend commercial",
   focus: ["React", "Vite", "TypeScript", "Web3", "Architecture"],
-  strengths: ["Speed", "Clean Code", "System Thinking", "UX-first"],
-  projects: ["EcoChain", "DexSafe Wallet", "DexFlow", "TOT Platform"],
+  strengths: ["Speed", CleanCode, SystemThinking, UXFirst],
+  projects: ["EcoChain", "DexSafe", "DexFlow", "TOT Platform"],
   contact: {
     telegram: "@sskutushev",
     email: "sskutushev@gmail.com",
