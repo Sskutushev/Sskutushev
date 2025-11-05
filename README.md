@@ -1,40 +1,33 @@
 <!-- БАННЕР -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0c29&height=120&section=header&text=Sergey%20Kutushev&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=240&section=header&text=Sergey%20Kutushev&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">Frontend Architect • Web3 Developer • Full-Cycle Engineer</h3>
 <p align="center">
-  Создаю производительные, продуманные и масштабируемые интерфейсы.<br/>
-  Архитектура → UX → Разработка → Тесты → CI/CD → Продакшен.
+  <img src="https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-302b63?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/TypeScript-24243e?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Web3-302b63?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 ---
 
 # 🧭 Обо мне
-Я — **Frontend Architect** и Web3-разработчик, который превращает идеи в системы.  
-Строю архитектуру, продумываю UX, проектирую интерфейсы и реализую всё end-to-end.
-
-Работаю в трёх плоскостях:
-
-✅ **Инженерия** — архитектура, стейт-менеджмент, слой данных  
-✅ **UX/Продукт** — микроанимации, взаимодействия, flow пользователя  
-✅ **Системность** — тесты, CI/CD, дизайн системы, документация  
-
-За последний год создал Web3-кошельки, DeFi-платформы, Telegram Mini Apps и сложные интерфейсы, включая DEX-решения.
+> 💼 Я — Frontend Architect, который работает на стыке инженерии и продукта.  
+> Строю интерфейсы, которые выглядят дорого, работают быстро и масштабируются без боли.
 
 ---
 
 # 🧩 Технический профиль
 
 ### 🔥 Основной стек
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-563D7C?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-0F0F0F?style=for-the-badge)
-![Framer](https://img.shields.io/badge/FramerMotion-000000?style=for-the-badge&logo=framer&logoColor=white)
+<h2 align="center">⚡ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,vue,redux,nextjs,tailwind,scss,webpack" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,python,fastapi,git,github,figma" />
+</p>
+
 
 ### ⚙️ Архитектура и инструменты
 - Типизация и масштабируемые модели данных  
@@ -55,45 +48,67 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 
 ---
 
-# 🚀 Проекты (Premium Cards)
+# 🚀 Проекты
+
+<h1 align="center">🚀 Featured Projects</h1>
 
 <table>
 <tr>
-<td width="50%" style="vertical-align:top">
+<td width="50%">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=EcoChain%20Platform&width=600&height=120" />
 
-### ✅ EcoChain Token Platform  
-**Web3 / DeFi / Multi-Layer Architecture**  
-React, TS, Vite, Zustand, Storybook, Vitest  
-Полная архитектура платформы: UI, UX-flow, токены, локализация, API-слой, тесты, CI/CD.
-
+  <h3>EcoChain Token Platform</h3>
+  <p><b>Web3 / DeFi / Token System</b><br/>
+  React, TypeScript, Zustand, Storybook, Vitest</p>
+  <ul>
+    <li>Архитектура UI + модульная система</li>
+    <li>UX flow — токены, переводы, управление портфелем</li>
+    <li>OpenAPI, mock server, CI/CD</li>
+  </ul>
 </td>
-<td width="50%" style="vertical-align:top">
 
-### ✅ DexSafe Wallet Pro  
-**Web3 Wallet + Landing**  
-React, TS, Tailwind, Framer, Cypress  
-Web3-логика, UPA Engine визуализация, микроанимации, адаптив, автоматизация.
+<td width="50%">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DexSafe%20Wallet&width=600&height=120" />
 
+  <h3>DexSafe Wallet Pro</h3>
+  <p><b>Web3 Wallet + Motion UI</b><br/>
+  React, Tailwind, Framer Motion, Cypress</p>
+  <ul>
+    <li>Web3 логика: кошельки, подписи, транзакции</li>
+    <li>UPA Engine анимации, лендинг + приложение</li>
+    <li>Тесты, i18n, авто-деплой</li>
+  </ul>
 </td>
 </tr>
+
 <tr>
-<td width="50%" style="vertical-align:top">
+<td width="50%">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DexFlow%20DEX&width=600&height=120" />
 
-### ✅ DexFlow DEX  
-**Prototype of Decentralized Exchange**  
-React, API-engine, UX-архитектура  
-Интерфейс ордеров, ликвидность, realtime-обновление, контейнерная архитектура.
-
+  <h3>DexFlow DEX</h3>
+  <p><b>Prototype of DEX Interface</b><br/>
+  React, API-engine, UX Architecture</p>
+  <ul>
+    <li>Ордер-буки, пулы, реалтайм обновления</li>
+    <li>Контейнерная архитектура</li>
+    <li>Готовность под подключение backend</li>
+  </ul>
 </td>
-<td width="50%" style="vertical-align:top">
 
-### ✅ Portfolio System (Reactive Velocity)  
-**React 19, TS, Tailwind, Vite, CI/CD, Playwright, A11Y**  
-Полностью тестируемая система портфолио с Lighthouse 95+.
+<td width="50%">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Portfolio%20System&width=600&height=120" />
 
+  <h3>Portfolio System (Reactive Velocity)</h3>
+  <p><b>React 19, Tailwind, CI/CD, 95+ Lighthouse</b></p>
+  <ul>
+    <li>Полное покрытие тестами (Playwright)</li>
+    <li>Декомпозированная архитектура</li>
+    <li>Авто-деплой + мониторинг</li>
+  </ul>
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -170,10 +185,18 @@ B2B-продажи, переговоры, воронки, KPI, бизнес-мы
 ---
 
 # 📫 Контакты
-
-- **Telegram:** https://t.me/sskutushev  
-- **Email:** sskutushev@gmail.com  
-- **GitHub:** https://github.com/Sskutushev  
+<hr/>
+<p align="center">
+  <a href="https://t.me/sskutushev">
+    <img src="https://img.shields.io/badge/Telegram-0F0C29?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:sskutushev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-302B63?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sskutushev">
+    <img src="https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
