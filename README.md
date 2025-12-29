@@ -13,42 +13,41 @@
 
 ---
 
-# 🧭 Обо мне
-> 💼 Я — Frontend Architect, который работает на стыке инженерии и продукта.  
-> Строю интерфейсы, которые выглядят дорого, работают быстро и масштабируются без боли.
+# About Me
+> I am a Frontend developer who works at the intersection of engineering and product.
+> I build interfaces that look premium, work fast and scale without pain.
 
 ---
 
-# 🧩 Технический профиль
+# Technical Profile
 
-### 🔥 Основной стек
+### Main Stack
 <h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,vite,vue,tailwind" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,github,figma" />
 </p>
 
+### Architecture and Tools
+- Type safety and scalable data models
+- Storybook, API layer, OpenAPI
+- ESLint, Prettier, Husky, Commitlint
+- Webpack (selectively), Vite (preferred)
 
-### ⚙️ Архитектура и инструменты
-- Типизация и масштабируемые модели данных  
-- Storybook, API-слой, OpenAPI  
-- ESLint, Prettier, Husky, Commitlint  
-- Webpack (точечно), Vite (предпочтительно)
+### Web3 / DeFi
+- Ethers.js
+- Wallet API / signatures / tokens
+- Interfaces for DEX, RWA, DeFi infrastructure
 
-### 🌐 Web3 / DeFi
-- Ethers.js  
-- Wallet API / подписи / токены  
-- Интерфейсы под DEX, RWA, DeFi-инфраструктуру  
-
-### ⚡ Backend (база)
+### Backend (Foundation)
 Node.js, Express, Next.js API, FastAPI, SQL, Docker, CI/CD.
 
-### ✅ Тестирование
+### Testing
 Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 
 ---
 
-# 🚀 Проекты
+# Projects
 
 <h1 align="center">🚀 Featured Projects</h1>
 
@@ -61,8 +60,8 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
   <p><b>Web3 / DeFi / Token System</b><br/>
   React, TypeScript, Zustand, Storybook, Vitest</p>
   <ul>
-    <li>Архитектура UI + модульная система</li>
-    <li>UX flow — токены, переводы, управление портфелем</li>
+    <li>UI architecture + modular system</li>
+    <li>UX flow — tokens, transfers, portfolio management</li>
     <li>OpenAPI, mock server, CI/CD</li>
   </ul>
 </td>
@@ -74,9 +73,9 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
   <p><b>Web3 Wallet + Motion UI</b><br/>
   React, Tailwind, Framer Motion, Cypress</p>
   <ul>
-    <li>Web3 логика: кошельки, подписи, транзакции</li>
-    <li>UPA Engine анимации, лендинг + приложение</li>
-    <li>Тесты, i18n, авто-деплой</li>
+    <li>Web3 logic: wallets, signatures, transactions</li>
+    <li>UPA Engine animations, landing + application</li>
+    <li>Tests, i18n, auto-deploy</li>
   </ul>
 </td>
 </tr>
@@ -89,9 +88,9 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
   <p><b>Prototype of DEX Interface</b><br/>
   React, API-engine, UX Architecture</p>
   <ul>
-    <li>Ордер-буки, пулы, реалтайм обновления</li>
-    <li>Контейнерная архитектура</li>
-    <li>Готовность под подключение backend</li>
+    <li>Order books, pools, real-time updates</li>
+    <li>Container architecture</li>
+    <li>Ready for backend integration</li>
   </ul>
 </td>
 
@@ -101,81 +100,80 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
   <h3>Portfolio System (Reactive Velocity)</h3>
   <p><b>React 19, Tailwind, CI/CD, 95+ Lighthouse</b></p>
   <ul>
-    <li>Полное покрытие тестами (Playwright)</li>
-    <li>Декомпозированная архитектура</li>
-    <li>Авто-деплой + мониторинг</li>
+    <li>Full test coverage (Playwright)</li>
+    <li>Decomposed architecture</li>
+    <li>Auto-deploy + monitoring</li>
   </ul>
 </td>
 </tr>
 </table>
 
+---
+
+# Philosophy
+> I am a practitioner.
+> If I don't remember the term, I understand how the system works.
+
+- architecture above improvisation
+- clean, predictable code
+- UX that feels natural
+- tests → quality guarantee
+- CI/CD → stability guarantee
+- Web3 without pain for the user
+
+I work as if I'm making a product for myself.
 
 ---
 
-# 🧠 Философия
-> Я — практик.  
-> Если не помню термин — понимаю, как работает система.
+# 📚 Technology Matrix
 
-- архитектура превыше импровизации  
-- чистый, предсказуемый код  
-- UX, который чувствуется естественным  
-- тесты → гарантия качества  
-- CI/CD → гарантия стабильности  
-- Web3 без боли для пользователя  
-
-Работаю так, будто делаю продукт для себя.
-
----
-
-# 📚 Матрица технологий
-
-### ⚛️ **React — основной стек**
-Дашборды, кошельки, сложные SPA, Realtime UI, Mini Apps  
-**Инструменты:** React 18/19, Zustand, RTK, TanStack Query, RHF, Framer, Next.js
+### ⚛️ **React — Main Stack**
+Dashboards, wallets, complex SPAs, Realtime UI, Mini Apps
+**Tools:** React 18/19, Zustand, RTK, TanStack Query, RHF, Framer, Next.js
 
 ### 🔷 **Vue**
-CRM, корпоративные панели, админ-системы  
-**Инструменты:** Vue 3, Composition API, Pinia, Vue Router, Nuxt
+CRM, corporate panels, admin systems
+**Tools:** Vue 3, Composition API, Pinia, Vue Router, Nuxt
 
 ### 🟡 **Vanilla JS**
-Легковесные виджеты, Web Components, GSAP анимации  
-**Инструменты:** ES6+, Web APIs, CSS-архитектура
+Lightweight widgets, Web Components, GSAP animations
+**Tools:** ES6+, Web APIs, CSS architecture
 
 ---
 
-# 🔄 Процесс работы (Ideation → Release)
+# 🔄 Work Process (Ideation → Release)
 
-**01. Архитектура и UX-дизайн**  
-Проработка макетов, взаимодействий, структуры данных.
+**01. Architecture and UX Design**
+Working through mockups, interactions, data structure.
 
-**02. Разработка**  
-Vite, TypeScript, модульность, переиспользуемость, code-splitting.
+**02. Development**
+Vite, TypeScript, modularity, reusability, code-splitting.
 
-**03. AI-ускорение**  
-AI → генерация рутины, boilerplate, тестов.  
-Архитектура — вручную.
+**03. AI Acceleration**
+AI → generating routine, boilerplate, tests.
+Architecture — manual.
 
-**04. Тестирование и релиз**  
-Unit/E2E, A11Y, SEO, Lighthouse, Docker, CI/CD, авто-деплой.
-
----
-
-# 🧩 Карьера до разработки
-
-### 📦 Coca-Cola — Senior Key Account Manager  
-B2B-продажи, переговоры, воронки, KPI, бизнес-мышление.
-
-### 📈 FinTech — Финансовый аналитик  
-Стратегии, автоматизация, диплом финаналитика, опыт в крипте и рынках.
-
-> Я разработчик, который понимает бизнес, цифры и пользователей.
-
-### 🧑‍💻 Frontend — 1.5+ года коммерческого опыта  
-Общий стаж работы: **10+ лет**.
+**04. Testing and Release**
+Unit/E2E, A11Y, SEO, Lighthouse, Docker, CI/CD, auto-deploy.
 
 ---
 
-# 📈 GitHub статистика
+# 🧩 Pre-Development Career
+
+### 📦 Coca-Cola — Senior Key Account Manager
+B2B sales, negotiations, funnels, KPI, business thinking.
+
+### 📈 FinTech — Financial Analyst
+Strategies, automation, financial analyst diploma, experience in crypto and markets.
+
+> I am a developer who understands business, numbers and users.
+
+### 🧑‍💻 Frontend — 2+ years commercial experience
+Total work experience: **10+ years**.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sskutushev&show_icons=true&theme=tokyonight" width="48%" />
@@ -184,7 +182,7 @@ B2B-продажи, переговоры, воронки, KPI, бизнес-мы
 
 ---
 
-# 📫 Контакты
+# 📫 Contacts
 <hr/>
 <p align="center">
   <a href="https://t.me/sskutushev">
@@ -200,7 +198,7 @@ B2B-продажи, переговоры, воронки, KPI, бизнес-мы
 
 ---
 
-## 🧩 Немного обо мне в коде
+## 🧩 A Bit About Me in Code
 
 ```ts
 const sskutushev = {
@@ -208,7 +206,7 @@ const sskutushev = {
   role: "Frontend Architect | Web3 Developer",
   experience: "10+ years total, 1.5+ years frontend commercial",
   focus: ["React", "Vite", "TypeScript", "Web3", "Architecture"],
-  strengths: ["Speed", CleanCode, SystemThinking, UXFirst],
+  strengths: ["Speed", CleanCode, SystemThinking, UXFirst"],
   projects: ["EcoChain", "DexSafe", "DexFlow", "TOT Platform"],
   contact: {
     telegram: "@sskutushev",
@@ -216,3 +214,4 @@ const sskutushev = {
     github: "github.com/Sskutushev"
   }
 };
+```
