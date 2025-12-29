@@ -49,7 +49,7 @@ Vitest, RTL, Cypress, Playwright, A11Y, Lighthouse CI.
 
 # Projects
 
-<h1 align="center">🚀 Featured Projects</h1>
+<h1 align="center">Featured Projects</h1>
 
 <table>
 <tr>
@@ -125,23 +125,23 @@ I work as if I'm making a product for myself.
 
 ---
 
-# 📚 Technology Matrix
+# Technology Matrix
 
-### ⚛️ **React — Main Stack**
+### <img src="https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB" /> **React — Main Stack**
 Dashboards, wallets, complex SPAs, Realtime UI, Mini Apps
 **Tools:** React 18/19, Zustand, RTK, TanStack Query, RHF, Framer, Next.js
 
-### 🔷 **Vue**
+### <img src="https://img.shields.io/badge/Vue.js-302B63?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> **Vue**
 CRM, corporate panels, admin systems
 **Tools:** Vue 3, Composition API, Pinia, Vue Router, Nuxt
 
-### 🟡 **Vanilla JS**
+### <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> **Vanilla JS**
 Lightweight widgets, Web Components, GSAP animations
 **Tools:** ES6+, Web APIs, CSS architecture
 
 ---
 
-# 🔄 Work Process (Ideation → Release)
+# Work Process (Ideation → Release)
 
 **01. Architecture and UX Design**
 Working through mockups, interactions, data structure.
@@ -158,7 +158,7 @@ Unit/E2E, A11Y, SEO, Lighthouse, Docker, CI/CD, auto-deploy.
 
 ---
 
-# 🧩 Pre-Development Career
+# Pre-Development Career
 
 ### 📦 Coca-Cola — Senior Key Account Manager
 B2B sales, negotiations, funnels, KPI, business thinking.
@@ -173,16 +173,16 @@ Total work experience: **10+ years**.
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sskutushev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sskutushev&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sskutushev&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sskutushev&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
 </p>
 
 ---
 
-# 📫 Contacts
+# Contacts
 <hr/>
 <p align="center">
   <a href="https://t.me/sskutushev">
@@ -191,22 +191,19 @@ Total work experience: **10+ years**.
   <a href="mailto:sskutushev@gmail.com">
     <img src="https://img.shields.io/badge/Email-302B63?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sskutushev">
-    <img src="https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 🧩 A Bit About Me in Code
+## A Bit About Me in Code
 
 ```ts
 const sskutushev = {
   name: "Sergey Kutushev",
   role: "Frontend Architect | Web3 Developer",
-  experience: "10+ years total, 1.5+ years frontend commercial",
+  experience: "10+ years total, 2+ years frontend commercial",
   focus: ["React", "Vite", "TypeScript", "Web3", "Architecture"],
-  strengths: ["Speed", CleanCode, SystemThinking, UXFirst"],
+  strengths: ["Speed", "CleanCode", "SystemThinking", "UXFirst"],
   projects: ["EcoChain", "DexSafe", "DexFlow", "TOT Platform"],
   contact: {
     telegram: "@sskutushev",
