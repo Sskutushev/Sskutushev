@@ -28,17 +28,17 @@
 
 ###  Selected Projects
 
-#### [EcoChain Token Platform](https://github.com/Sskutushev/ecochain)
+#### EcoChain Token Platform
 *Web3 / DeFi / Token Management System*
 - **Stack:** React, TS, Zustand, Tailwind.
 - **Key:** Designed a modular UI system for complex financial data visualization and wallet integrations.
 
-#### [DexSafe Wallet Pro](https://github.com/Sskutushev/dexsafe)
+#### DexSafe Wallet Pro
 *Web3 Wallet with Motion UI*
 - **Stack:** React, Framer Motion, Ethers.js.
 - **Key:** Focused on high-end UX animations and secure transaction handling.
 
-#### [TOT Platform](https://github.com/Sskutushev)
+#### TOT Platform
 *Commercial Startup / Fintech*
 - **Stack:** React, TypeScript, Tailwind, UNA.CMS API.
 - **Key:** Built the entire frontend architecture from scratch, ensuring 100% pixel-perfect match with Figma.
