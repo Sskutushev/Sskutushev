@@ -75,8 +75,7 @@ Stack: React · Ethers.js · Framer Motion · Zustand
 ### Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sskutushev&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sskutushev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sskutushev&theme=tokyonight" width="90%" />
 </p>
 
 ---
