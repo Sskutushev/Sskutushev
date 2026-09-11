@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sergey%20Kutushev&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Senior%20Fullstack%20Developer%20%C2%B7%20Backend-leaning%20Product%20Engineer&descAlignY=58&descSize=18" alt="Sergey Kutushev — Senior Fullstack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sergei%20Kutushev&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Senior%20Fullstack%20Developer%20%C2%B7%20Backend-leaning%20Product%20Engineer&descAlignY=58&descSize=18" alt="Sergei Kutushev — Senior Fullstack Developer" />
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ Before software engineering, I spent almost six years at **Coca-Cola HBC** in ke
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sskutushev&theme=tokyonight" width="95%" alt="Sergey Kutushev GitHub activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sskutushev&theme=tokyonight" width="95%" alt="Sergei Kutushev GitHub activity" />
 </p>
 
 <p align="center">
