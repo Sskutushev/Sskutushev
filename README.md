@@ -22,6 +22,7 @@
   <a href="https://sskutushev.github.io/sskutushev-site/">Portfolio</a> ·
   <a href="https://github.com/Sskutushev/sskutushev-site">Source</a> ·
   <a href="https://github.com/Sskutushev/sskutushev-site/blob/main/docs/architecture/overview.md">Architecture</a> ·
+  <a href="https://www.linkedin.com/in/sskutushev/">LinkedIn</a> ·
   <a href="https://t.me/sskutushev">Telegram</a> ·
   <a href="mailto:sskutushev@gmail.com">Email</a>
 </p>
@@ -32,7 +33,7 @@ Senior Fullstack Developer with a backend-leaning focus and 5+ years of commerci
 
 I work across the full product lifecycle: architecture, backend services, APIs, databases, frontend, testing, infrastructure, production rollout, and post-deploy validation.
 
-I currently build B2B and B2C products for a UAE real-estate platform operating across **hundreds of thousands of active listings**. The product surface includes paid access, property analytics, owner workflows, search, valuation, and data-intensive interfaces.
+I currently build B2B and B2C products for a UAE real-estate platform with **230,000+ active listings**. The product surface includes paid access, property analytics, owner workflows, search, valuation, and data-intensive interfaces.
 
 My strongest areas are system design, backend architecture, performance, application security, data-intensive products, and end-to-end product ownership.
 
@@ -43,6 +44,8 @@ Most of my current commercial work is closed source. Selected systems and outcom
 - **B2B access and monetization** — designed backend architecture for plans, entitlements, access control, charging and refunds, including server-side masking of sensitive data.
 - **Building View** — delivered an investor-facing product end to end: backend, ClickHouse analytics, API, tariff model, frontend and UI, PDF generation, migrations, CronJob, and production validation.
 - **My Home** — built an owner journey from property search and valuation to ownership verification, Stripe checkout, entitlements, and a protected per-unit workspace.
+- **Ranking V3** — built a three-mode ranking system (absolute, adjusted, category) with fair-value logic and an explicit result-availability contract.
+- **Valuation** — reworked the property valuation engine to separate sales and rental markets across DLD/Ejari sources, with explicit metric basis and nullable states.
 - **Analytics** — moved part of the analytics layer from Looker to TypeScript and SQL, reducing BigQuery requests by approximately **65%** in internal measurements.
 - **Image search** — built a property-search pipeline with Redis, Wasabi/S3, CLIP embeddings, Qdrant, and BigQuery.
 - **Frontend performance** — resolved an iPhone production crash by reducing the initial render from roughly **994 cards / 119,000 DOM nodes** to **45–50 cards** through virtualization and dynamic measurement.
@@ -119,11 +122,28 @@ The repository includes explicit architecture decisions, a versioned design syst
 
 [Live demo](https://sskutushev.github.io/sskutushev-site/) · [Source](https://github.com/Sskutushev/sskutushev-site) · [Architecture overview](https://github.com/Sskutushev/sskutushev-site/blob/main/docs/architecture/overview.md)
 
-## Engineering background
+## Experience
 
-Previously built algorithmic trading systems for crypto, FX, metals, and commodities using Go, Rust, Python, and MQL. The work included real-time and historical processing of datasets with up to approximately one million rows, WebSocket integrations, and investor-facing TypeScript/React interfaces.
+| Period | Role | Context |
+|--------|------|---------|
+| Jan 2026 — present | **Senior Fullstack Developer** | Refty.ai — international proptech company (UAE) |
+| Jan 2024 — Dec 2025 | **Fullstack Developer** | Self-employed — custom web products and internal systems |
+| Mar 2021 — Dec 2025 | **Fullstack / Backend Developer — algorithmic trading systems** | Private investment fund (NDA) |
+| Dec 2024 — Jun 2025 | **Frontend Developer** · contract | TOT (NDA) — sole frontend engineer, alongside primary work |
+| Feb 2015 — Dec 2020 | **Senior Key Account Manager** | Coca-Cola HBC Russia |
+
+**Algorithmic trading systems** — built trading bots and backend services for market analysis, signal generation, strategy execution, and performance control. Core logic in Go and Rust, analytics in Python, strategy components and terminal integrations in MQL. Real-time and historical processing of datasets with up to approximately one million rows, WebSocket integrations, and investor-facing TypeScript/React dashboards.
+
+**Freelance** — MVPs, landing pages, customer portals, admin panels, and internal services; backend, REST APIs, auth, roles, databases, and third-party integrations on PHP, Python, and Django; React and Vue.js interfaces; CRM and notification integrations, performance and technical SEO.
+
+**TOT** — sole frontend developer on a multifunctional platform: frontend architecture on React, Next.js, and TypeScript, role-based interfaces, onboarding, profiles, social feed, subscriptions, marketplace, and educational dashboards.
 
 Before software engineering, I spent almost six years at **Coca-Cola HBC** in key-account management and team leadership. That background strongly influences how I connect engineering decisions with business rules, operational constraints, and measurable outcomes.
+
+## Education and languages
+
+- Norilsk Industrial Institute — Economics and Accounting, 2014
+- Russian — native · English — B1 (intermediate)
 
 ## GitHub activity
 
@@ -140,5 +160,6 @@ Before software engineering, I spent almost six years at **Coca-Cola HBC** in ke
 
 - Portfolio: [sskutushev.github.io/sskutushev-site](https://sskutushev.github.io/sskutushev-site/)
 - GitHub: [github.com/Sskutushev](https://github.com/Sskutushev)
+- LinkedIn: [linkedin.com/in/sskutushev](https://www.linkedin.com/in/sskutushev/)
 - Telegram: [@sskutushev](https://t.me/sskutushev)
 - Email: [sskutushev@gmail.com](mailto:sskutushev@gmail.com)
