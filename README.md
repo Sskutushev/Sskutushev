@@ -106,7 +106,7 @@ Most of my current commercial work is closed source. Selected systems and outcom
 
 ## Portfolio and public work
 
-### [sskutushev-site](https://github.com/Sskutushev/sskutushev-site) — production-shaped engineering portfolio
+### [sskutushev-site](https://sskutushev.github.io/sskutushev-site/) — production-shaped engineering portfolio
 
 A working vertical slice rather than a static mock:
 
