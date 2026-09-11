@@ -1,112 +1,74 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Sergey%20Kutushev&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35" />
-</p>
+# Sergey Kutushev
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_18/19-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-302b63?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-24243e?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-302b63?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Zustand-302b63?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+## Senior Fullstack Developer · Backend-leaning Product Engineer
 
----
+**TypeScript · Node.js · React · Next.js · PostgreSQL · ClickHouse · Redis · Kubernetes**
 
-# Fullstack Developer · Frontend-focused
+I build production systems end to end — from domain models, APIs, and data flows to frontend, testing, infrastructure, and rollout.
 
-> Building production-grade B2B/B2C platforms — from UI architecture to backend services and data pipelines.
-> React + TypeScript on the front, Node.js + PostgreSQL/BigQuery on the back.
+[Portfolio](https://sskutushev.github.io/sskutushev-site/) · [Portfolio source](https://github.com/Sskutushev/sskutushev-site) · [Architecture](https://github.com/Sskutushev/sskutushev-site/blob/main/docs/architecture/overview.md) · [Telegram](https://t.me/sskutushev) · [Email](mailto:sskutushev@gmail.com)
 
----
+## Profile
 
-### What I actually do
+Senior Fullstack Developer with a backend-leaning focus and 5+ years of commercial software development.
 
-I work on a real-estate analytics platform for the UAE market (230k+ listings, B2B + B2C).
-My scope covers the full stack: frontend architecture, backend features, DB queries, infrastructure integrations, and E2E testing.
+I work across the full product lifecycle: architecture, backend services, APIs, databases, frontend, testing, infrastructure, production rollout, and post-deploy validation.
 
-**Selected shipped work (commercial, closed source):**
+I currently build B2B and B2C products for a UAE real-estate platform with **230,000+ active listings**. The product surface includes paid access, property analytics, owner workflows, search, valuation, and data-intensive interfaces.
 
-- **Search & listing performance** — replaced all-at-once render of 200k cards with virtualization + pagination. Load reduction: **~75%**
-- **Photo CDN pipeline** — implemented smart CDN layer with cascading fallback (CDN → original URL → placeholder). Zero white-screen on CDN failure
-- **Photo search pipeline** — built full pipeline: parser → Redis → Wasabi → embedding → Qdrant, with BigQuery for final card fetch by adId
-- **Analytics migration** — moved dashboards from Looker to internal TS+SQL solution. BigQuery request reduction: **~65%**
-- **Discount & promo system** — backend + frontend for time-decay discount logic (5–30%, 3–12 month periods), wired to CRM and CockroachDB
-- **Impersonation system** — managers can inspect broker accounts from their own session; full auth flow, DB, and audit trail
-- **Not-found UX** — classified listing states (archived / access_denied / not_found) on backend, delivered targeted CTA to frontend instead of generic 404
-- **Valuation modal** — market position analytics workspace: price curve, ask/bid ladders, comparable units table, deal scoring
-- **Wazzup integration checker** — Kubernetes CronJob that monitors WhatsApp integration health and pushes alerts to Telegram bot
-- **E2E testing setup** — Playwright config from scratch: multi-server (frontend + backend), API auth, cross-browser, CI-ready
-- **Global state migration** — refactored app-wide state from Context API to Zustand across full monorepo
-- **PropertyController v2** — extracted business logic from legacy controller into clean service layer, added V2 API routes with full parity validation
-- **Analytics dashboards** — fixed data discrepancies across DLD, Ejari, R&D, Top Agency, Renovation Villas dashboards vs Looker reference
+My strongest areas are system design, backend architecture, performance, application security, data-intensive products, and end-to-end product ownership.
 
----
+## Selected production work
 
-### Stack
+Most of my current commercial work is closed source. Selected systems and outcomes:
 
-**Frontend**
-React 18/19 · Next.js (App Router) · TypeScript (strict) · Zustand · Redux Toolkit · Tailwind CSS · Framer Motion · TanStack Virtual · Playwright
+- **B2B access and monetization** — designed backend architecture for plans, entitlements, access control, charging and refunds, including server-side masking of sensitive data.
+- **Building View** — delivered an investor-facing product end to end: backend, ClickHouse analytics, API, tariff model, frontend and UI, PDF generation, migrations, CronJob, and production validation.
+- **My Home** — built an owner journey from property search and valuation to ownership verification, Stripe checkout, entitlements, and a protected per-unit workspace.
+- **Analytics** — moved part of the analytics layer from Looker to TypeScript and SQL, reducing BigQuery requests by approximately **65%** in internal measurements.
+- **Image search** — built a property-search pipeline with Redis, Wasabi/S3, CLIP embeddings, Qdrant, and BigQuery.
+- **Frontend performance** — resolved an iPhone production crash by reducing the initial render from roughly **994 cards / 119,000 DOM nodes** to **45–50 cards** through virtualization and dynamic measurement.
+- **Resilience and delivery** — implemented Redis stale-while-revalidate caching, in-flight deduplication, controlled fallbacks, and Playwright E2E infrastructure; participate in Kubernetes-based rollout and post-deploy validation.
 
-**Backend**
-Node.js · PHP · PostgreSQL · CockroachDB · BigQuery · Redis · Qdrant · Wasabi S3
+## Engineering stack
 
-**Infra & tooling**
-Kubernetes · CronJobs · GitHub Actions · Vite · Vitest · ESLint · Docker
+| Area | Technologies |
+| --- | --- |
+| Backend | TypeScript, Node.js, Express, REST API, Python, FastAPI |
+| Frontend | React 18/19, Next.js, TypeScript |
+| Data | PostgreSQL, CockroachDB, ClickHouse, BigQuery, Redis |
+| Search and storage | Qdrant, CLIP, Wasabi/S3 |
+| Infrastructure | Docker, Kubernetes, CI/CD, CronJobs |
+| Testing | Playwright, Vitest |
+| Additional | Go, Rust, MQL, WebSocket |
 
----
+## Portfolio and public work
 
-### Open source & pet projects
+### [sskutushev-site](https://github.com/Sskutushev/sskutushev-site) — production-shaped engineering portfolio
 
-#### TOT Platform
-*Commercial fintech startup — built full frontend architecture from scratch*
-Stack: React · TypeScript · Tailwind · UNA.CMS API
+A working vertical slice rather than a static mock:
 
-#### DexFlow / EcoChain / DexSafe
-*Web3 / DeFi experiments — wallet UI, token dashboards, motion-heavy interfaces*
-Stack: React · Ethers.js · Framer Motion · Zustand
-
-#### Vanilla landing stack
-*Semantic cross-browser HTML/CSS/JS layouts for traffic arbitrage — single-file, CRM-wired, PHP backend*
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sskutushev&theme=tokyonight" width="90%" />
-</p>
-
----
-
-### Background
-
-- Ex-Senior KAM at **Coca-Cola HBC** — I think in KPIs, business logic, and user outcomes, not just code
-- FinTech & trading systems experience — dashboards, real-time data, financial domain knowledge
-- I document everything: architecture decisions, feature reports, migration plans
-
----
-
-### Connect
-
-<p align="left">
-  <a href="https://t.me/sskutushev">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:sskutushev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.sskutushev.site/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-```ts
-const sskutushev = {
-  role: "Fullstack Developer, frontend-focused",
-  stack: ["React", "TypeScript", "Next.js", "Node.js", "PostgreSQL", "BigQuery"],
-  infra: ["Kubernetes", "Redis", "Qdrant", "Wasabi", "CDN"],
-  approach: "Ship fast, document well, optimize with numbers",
-  motto: "If you can't measure it, you didn't improve it"
-};
+```text
+React / React Three Fiber
+        ↓ GraphQL
+NestJS → Prisma → CockroachDB
+        ↘ Redis
+        ↘ S3-compatible storage
 ```
+
+The repository includes explicit architecture decisions, a versioned design system, risk-based testing, performance budgets, security boundaries, resilient fallback behavior, and an ordered CI verification chain.
+
+[Live demo](https://sskutushev.github.io/sskutushev-site/) · [Source](https://github.com/Sskutushev/sskutushev-site) · [Architecture overview](https://github.com/Sskutushev/sskutushev-site/blob/main/docs/architecture/overview.md)
+
+## Engineering background
+
+Previously built algorithmic trading systems for crypto, FX, metals, and commodities using Go, Rust, Python, and MQL. The work included real-time and historical data processing, WebSocket integrations, codebases of up to one million lines, and investor-facing TypeScript/React interfaces.
+
+Before software engineering, I spent almost six years at **Coca-Cola HBC** in key-account management and team leadership. That background strongly influences how I connect engineering decisions with business rules, operational constraints, and measurable outcomes.
+
+## Contact
+
+- Portfolio: [sskutushev.github.io/sskutushev-site](https://sskutushev.github.io/sskutushev-site/)
+- GitHub: [github.com/Sskutushev](https://github.com/Sskutushev)
+- Telegram: [@sskutushev](https://t.me/sskutushev)
+- Email: [sskutushev@gmail.com](mailto:sskutushev@gmail.com)
