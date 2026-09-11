@@ -32,7 +32,7 @@ Senior Fullstack Developer with a backend-leaning focus and 5+ years of commerci
 
 I work across the full product lifecycle: architecture, backend services, APIs, databases, frontend, testing, infrastructure, production rollout, and post-deploy validation.
 
-I currently build B2B and B2C products for a UAE real-estate platform with **230,000+ active listings**. The product surface includes paid access, property analytics, owner workflows, search, valuation, and data-intensive interfaces.
+I currently build B2B and B2C products for a UAE real-estate platform operating across **hundreds of thousands of active listings**. The product surface includes paid access, property analytics, owner workflows, search, valuation, and data-intensive interfaces.
 
 My strongest areas are system design, backend architecture, performance, application security, data-intensive products, and end-to-end product ownership.
 
@@ -121,7 +121,7 @@ The repository includes explicit architecture decisions, a versioned design syst
 
 ## Engineering background
 
-Previously built algorithmic trading systems for crypto, FX, metals, and commodities using Go, Rust, Python, and MQL. The work included real-time and historical data processing, WebSocket integrations, codebases of up to one million lines, and investor-facing TypeScript/React interfaces.
+Previously built algorithmic trading systems for crypto, FX, metals, and commodities using Go, Rust, Python, and MQL. The work included real-time and historical processing of datasets with up to approximately one million rows, WebSocket integrations, and investor-facing TypeScript/React interfaces.
 
 Before software engineering, I spent almost six years at **Coca-Cola HBC** in key-account management and team leadership. That background strongly influences how I connect engineering decisions with business rules, operational constraints, and measurable outcomes.
 
